@@ -38,6 +38,7 @@ Bundle 'rdnetto/YCM-Generator'
 Bundle 'vim-airline/vim-airline'
 Bundle 'https://github.com/taketwo/vim-ros.git'
 Bundle 'luochen1990/rainbow'
+Bundle 'kien/ctrlp.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
