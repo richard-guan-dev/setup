@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/richard/catkin_ws/src/df_nav_node/gps_service/src'
+let g:netrw_dirhist_2='/home/richard/catkin_ws/src_survey/star-trek/camera_grabber/launch'
+let g:netrw_dirhist_3='/home/richard/catkin_ws/src/df_nav_node/render_server'
+let g:netrw_dirhist_4='/home/richard/catkin_ws/src/df_nav_node/render_server/src'
